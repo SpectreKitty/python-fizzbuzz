@@ -57,7 +57,8 @@ Return:
     "Fizz",
     "13",
     "14",
-    "FizzBuzz"
+    "FizzBuzz",
+    "Astry"
 ]
 ```
 
